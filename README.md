@@ -6,11 +6,11 @@
 ### Hi there 👋
 
 
-My name is Tushar bhatia. I am a first year CS undergrad student. I am always ready to learn something new and mostly try to work creatively.
+My name is Tushar bhatia. I am a second year CS undergrad student. I am always ready to learn something new and mostly try to work creatively.
 
 
 - 🔭 I’m currently working on a Python project.
-- 🌱 I’m currently learning **Machine Learning** and **Java**.
+- 🌱 I’m currently learning **Machine Learning** and **JavaScript**.
 - 🤔 I’m looking for help with project ideas.
 - 💬 Ask me about Python
 - 📫 How to reach me: Connect to me on [LinkedIn](https://www.linkedin.com/in/tushar-bhatia-b92a67164/) or directly on this mail [bhatiatushar02@gmail.com](mailto:bhatiatushar02@gmail.com).
