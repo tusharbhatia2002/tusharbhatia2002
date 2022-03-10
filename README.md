@@ -9,7 +9,7 @@
 My name is Tushar bhatia. I am a second year CS undergrad student. I am always ready to learn something new and mostly try to work creatively.
 
 
-- 🔭 I’m currently working on a Python project.
+- 🔭 I’m currently working on a Deep Learning project.
 - 🌱 I’m currently learning **Machine Learning** and **JavaScript**.
 - 🤔 I’m looking for help with project ideas.
 - 💬 Ask me about Python
