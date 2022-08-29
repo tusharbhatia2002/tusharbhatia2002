@@ -10,7 +10,7 @@ My name is Tushar bhatia. I am a third year CS undergrad student. I am always re
 
 
 - 🔭 I’m currently working on a Deep Learning project.
-- 🌱 I’m currently learning **Machine Learning** and **JavaScript**.
+- 🌱 I’m currently learning **Java**.
 - 🤔 I’m looking for help with project ideas.
 - 💬 Ask me about Python
 - 📫 How to reach me: Connect to me on [LinkedIn](https://www.linkedin.com/in/tushar-bhatia-b92a67164/) or directly on this mail [bhatiatushar02@gmail.com](mailto:bhatiatushar02@gmail.com).
