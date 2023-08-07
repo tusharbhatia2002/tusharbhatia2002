@@ -6,7 +6,7 @@
 ### Hi there 👋
 
 
-My name is Tushar bhatia. I am a third year CS undergrad student. I am always ready to learn something new and mostly try to work creatively.
+My name is Tushar bhatia. I am a fourth year CS undergrad student. I am always ready to learn something new and mostly try to work creatively.
 
 
 - 🔭 I’m currently working on a Deep Learning project.
